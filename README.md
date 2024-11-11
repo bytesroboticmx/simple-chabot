@@ -1,4 +1,4 @@
-# simple-chabot
+# simple-chatbot
 
 Requerimientos: python 3.12
 
