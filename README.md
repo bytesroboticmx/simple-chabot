@@ -1,4 +1,7 @@
 # simple-chabot
+
+Requerimientos: python 3.12
+
 ChatBot simple para el curso/taller desarollo de sistemas inteligentes con python.
 
 Autor: Dr. Aldo Gonzalez Vazquez
